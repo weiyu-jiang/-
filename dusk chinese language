@@ -1,0 +1,570 @@
+[zh]
+NONE = "";
+MENU_CAMPAIGN = "战役模式";
+MENU_ENDLESS = "生存模式";
+MENU_SAVELOAD = "保存/载入";
+MENU_SETTINGS = "游戏设置";
+MENU_QUIT = "退出游戏";
+MENU_NEW_EPISODE = "新游戏";
+MENU_LEVEL_SELECT = "选择关卡";
+MENU_BACK = "返回";
+MENU_FOOTHILLS = "丘陵";
+MENU_FACILITIES = "工厂";
+MENU_NAMELESS = "城市";
+MENU_ON = "打开";
+MENU_OFF = "关闭";
+MENU_INTRUDER = "入侵者模式";
+MENU_EXPLAIN_INTRUDER = "是否在关卡开始时只拥有镰刀.";
+MENU_ACCESSIBLE = "容易";
+MENU_EXPLAIN_ACCESSIBLE = "适合所有玩家的模式。";
+MENU_GO_EASY = "简单";
+MENU_EXPLAIN_GO_EASY = "敌人移动速度慢、伤害低。";
+MENU_I_CAN_TAKE_IT = "一般";
+MENU_EXPLAIN_I_CAN_TAKE_IT = "推荐难度。";
+MENU_CERO_MIEDO = "残酷";
+MENU_EXPLAIN_CERO_MIEDO = "敌人移动速度快、攻击猛烈，你的HP也是有限的。";
+MENU_DUSKMARE = "梦魇";
+MENU_EXPLAIN_DUSKMARE = "敌人可以将你一击必杀。";
+MENU_THE_FARM = "农场";
+MENU_THE_FACTORY = "工厂";
+MENU_THE_CATHEDRAL = "教堂";
+MENU_THE_GOGATORIUM = "高尔夫球场";
+MENU_SAVE_WARNING = "名称相同会覆盖。";
+MENU_ENTER_NAME = "输入名称";
+MENU_SAVE = "保存";
+MENU_LOAD = "载入";
+MENU_CANCEL = "取消";
+MENU_LOOK = "显示设置";
+MENU_FEEL = "游玩设置";
+MENU_SOUND = "声音设置";
+MENU_APPLY = "应用";
+MENU_RESOLUTION = "分辨率";
+MENU_FULLSCREEN = "全屏";
+MENU_VSYNC = "垂直同步";
+MENU_WEAPON_SIZE = "武器大小";
+MENU_FOV = "可视范围";
+MENU_FRAMERATE_CAP = "帧数限制";
+MENU_PALETTE = "调色板";
+MENU_CUSTOMIZE_PALETTE = "自定义调色板";
+MENU_CUSTOMIZE_CROSSHAIR = "自定义准心";
+MENU_ADVANCED_DISPLAY = "高级显示设置";
+MENU_BRIGHTNESS = "亮度";
+MENU_SATURATION = "饱和度";
+MENU_CONTRAST = "对比度";
+MENU_HUE = "色调";
+MENU_RED_TINT = "红";
+MENU_BLUE_TINT = "蓝";
+MENU_GREEN_TINT = "绿";
+MENU_STYLE = "类型";
+MENU_WEAPON_BASED_STYLE = "武器匹配";
+MENU_SCALE = "缩放";
+MENU_OPACITY = "透明度";
+MENU_BILINEAR_FILTERING = "双线性过滤";
+MENU_EXPLAIN_BILINEAR_FILTERING = "选择材质圆滑/平滑.";
+MENU_BLOOM = "发光";
+MENU_EXPLAIN_BLOOM = "选择是否开启发光物体出现柔和的光芒。";
+MENU_LIGHT_FLARES = "闪耀";
+MENU_EXPLAIN_LIGHT_FLARES = "选择是否开启让光线和物体出现闪耀效果。";
+MENU_RETRO_PALETTE = "复古画质";
+MENU_EXPLAIN_RETRO_PALETTE = "开启后以模拟复古的老3D游戏效果。";
+MENU_LOW_SPEC = "低特效模式";
+MENU_EXPLAIN_LOW_SPEC = "游玩严重掉帧可开启此选项。";
+MENU_PIXELIZATION = "材质效果";
+MENU_EXPLAIN_PIXELIZATION = "根据选择的效果来类比低特效情况下的效果，此选项不影响帧数。";
+MENU_DIFFICULTY = "难度";
+MENU_WEAPON_SWAY = "武器晃动";
+MENU_EXPLAIN_WEAPON_SWAY = "在移动时武器会晃动，此选项不影响射击效果。";
+MENU_CAMERA_ANIMATIONS = "镜头晃动";
+MENU_EXPLAIN_CAMERA_ANIMATIONS = "在射击、受伤时的镜头特效。";
+MENU_VERTICAL_FLIPPING = "镜头反转";
+MENU_EXPLAIN_VERTICAL_FLIPPING = "选择在空中和水中时是否解锁Y轴最大角度。";
+MENU_WATER_CONTROLS = "水中控制";
+MENU_EXPLAIN_WATER_CONTROLS = "单独控制水下的镜头。";
+MENU_INPUT_SETTINGS = "操控设置";
+MENU_CUSTOMIZE_BINDINGS = "修改按键";
+MENU_CONTROLLER_BINDINGS = "查看手柄按键";
+MENU_TOGGLE_CROUCH = "切换蹲伏";
+MENU_EXPLAIN_TOGGLE_CROUCH = "蹲下时是切换还是按住。";
+MENU_ALWAYS_RUN = "保持奔跑";
+MENU_EXPLAIN_ALWAYS_RUN = "在正常模式下是走路还是奔跑。";
+MENU_LOOK_SENSITIVITY = "镜头灵敏度";
+MENU_INVERT_AXIS = "反转Y轴";
+MENU_EXPLAIN_INVERT_AXIS = "使控制镜头为上下反转的方式。";
+MENU_AUTOAIM = "辅助瞄准";
+MENU_ENABLE_CONTROLLER = "启用手柄";
+MENU_EXPLAIN_ENABLE_CONTROLLER = "关闭后将不会识别到您的手柄。";
+MENU_AUTOSWITCH = "自动切换武器";
+MENU_EXPLAIN_AUTOSWITCH = "自动切换武器为最新捡到的。";
+MENU_MASTER_VOLUME = "主音量";
+MENU_MUSIC_VOLUME = "音乐音量";
+MENU_BEST_SCORES = "高分榜:";
+MENU_KILLS = "击杀:";
+MENU_SECRETS = "秘密:";
+MENU_TIME = "用时";
+MENU_AWARDS = "奖励:";
+MENU_PACIFIST = "和平主义者";
+MENU_UNTOUCHABLE = "不可触及者";
+MENU_COMPLETIONIST = "完美主义者";
+MENU_LOW_TECH = "菜鸡";
+MENU_LOADOUT = "装备";
+MENU_YES = "是";
+MENU_NO = "没有";
+MENU_ENABLED = "开";
+MENU_DISABLED = "关";
+MENU_STANDARD = "标准";
+MENU_BEGIN_WITH_LOADOUT = "要以当前状态开始吗?";
+MENU_MENU = "菜单";
+MENU_ENTER_HORROR = "按任意键开始游戏";
+MENU_PREPARE_THYSELF = "载入中…";
+MENU_LANGUAGE = "语言";
+MENU_TIME_TOTAL = "总:";
+MENU_TIME_DEV = "开发时间 : ";
+MENU_TIME_BEST = "最好时间 :";
+MENU_DIFFICULTY_WARNING = "这不适用于第一次游戏，要继续吗?";
+MENU_SUBTITLES = "字幕";
+MENU_LANGUAGE = "语言";
+MENU_UNCAPPED = "不封顶";
+MENU_LOWEST = "最低限度";
+MENU_CONTROLLER_DEFAULT = "默认";
+MENU_CONTROLLER_OPTIMIZED = "优化";
+MENU_CONTROLLER_SOUTHPAW = "左";
+MENU_CONTROLLER_OPTIMIZED_SOUTHPAW = "优化左";
+MENU_CONTROLLER_DEFAULT_I = "4";
+MENU_CONTROLLER_OPTIMIZED_I = "5";
+MENU_CONTROLLER_SOUTHPAW_I = "6";
+MENU_CONTROLLER_OPTIMIZED_SOUTHPAW_I = "7";
+MENU_REBIND_WARNING = "注意:可以通过编辑ini文件来更改特定的控制器绑定 'mappings'文件夹,但更改不会反映在此页面上.";
+
+INPUT_FORWARD = "前进";
+INPUT_BACKWARD = "后退";
+INPUT_LEFT = "左平移";
+INPUT_RIGHT = "右平移";
+INPUT_JUMP = "跳";
+INPUT_CROUCH = "蹲";
+INPUT_WALK = "步行";
+INPUT_FIRE = "攻击";
+INPUT_ZOOM = "缩放";
+INPUT_FLASHLIGHT = "手电筒";
+INPUT_FLIP = "装弹";
+INPUT_USE = "使用";
+INPUT_SICKLES = "镰刀/宝剑";
+INPUT_PISTOL = "手枪/双持手枪";
+INPUT_SHOTGUN = "霰弹枪/双持霰弹枪";
+INPUT_SUPER_SHOTGUN = "超级霰弹枪";
+INPUT_ASSAULT_RIFLE = "突击步枪";
+INPUT_HUNTING_RIFLE = "来福枪";
+INPUT_CROSSBOW = "十字弓";
+INPUT_MORTAR = "榴弹枪";
+INPUT_RIVETER = "火箭发射器";
+INPUT_CIGAR = "雪茄";
+INPUT_HOLSTER = "手枪皮套";
+INPUT_LAST_USED_WEAPON = "上一把使用的武器";
+INPUT_QUICK_MELEE = "快速近战武器";
+INPUT_TOGGLE_STATS = "切换状态";
+INPUT_TURN_LEFT = "左转";
+INPUT_TURN_RIGHT = "右转";
+INPUT_LOOK_UP = "向上看";
+INPUT_LOOK_DOWN = "向下看";
+INPUT_CENTER_VIEW = "视野中心";
+INPUT_RECORD_TIME = "记录时间";
+INPUT_QUICK_SAVE = "快速存档";
+INPUT_QUICK_LOAD = "快速读档";
+INPUT_RESTART = "重玩本关卡";
+INPUT_NEXT_WEAPON = "下一把武器";
+INPUT_PREV_WEAPON = "上一把武器";
+
+DEATH_SURVIVED = "存活";
+DEATH_UNCOVERED = "未发现";
+DEATH_SECRETS = "秘密";
+DEATH_TOOK = "你挂了";
+DEATH_FOES = "敌人";
+DEATH_LIVE_AGAIN = "按E键复活";
+DEATH_GAME_OVER = "游戏结束";
+DEATH_KILLED = "杀害";
+DEATH_ENEMIES_IN = "在...的敌人";
+
+HUD_TIME = "时间";
+HUD_KILLS = "击杀";
+HUD_SECRETS = "秘密";
+HUD_HEALTH = "身体";
+HUD_MORALE = "勇气";
+HUD_RED_KEY = "你没有红色钥匙";
+HUD_BLUE_KEY = "你没有蓝色钥匙";
+HUD_YELLOW_KEY = "你没有黄色钥匙";
+HUD_FOUND_SECRET = "你找到了一个隐藏秘密!";
+HUD_WAVE = "波";
+
+WEAPON_SICKLES = "镰刀";
+WEAPON_SWORD = "宝剑";
+WEAPON_PISTOL = "手枪";
+WEAPON_PISTOL_2 = "双持手枪";
+WEAPON_SHOTGUN = "霰弹枪";
+WEAPON_SHOTGUN_2 = "双持霰弹枪";
+WEAPON_SUPER_SHOTGUN = "超级霰弹枪";
+WEAPON_ASSAULT_RIFLE = "突击步枪";
+WEAPON_HUNTING_RIFLE = "来福枪";
+WEAPON_CROSSBOW = "十字弓";
+WEAPON_MORTAR = "榴弹枪";
+WEAPON_RIVETER = "火箭发射器";
+WEAPON_CIGAR = "雪茄";
+
+LEVEL_E1M1 = "猪头肉冻";
+LEVEL_E1M2 = "快乐农场";
+LEVEL_E1M3 = "古老宗教";
+LEVEL_E1M4 = "蒸汽工坊";
+LEVEL_E1M5 = "电末";
+LEVEL_E1M6 = "小型矿洞";
+LEVEL_E1M7 = "暗夜之亡";
+LEVEL_E1M8 = "穿过大门";
+LEVEL_E1M9 = "鬼镇";
+LEVEL_E1M10 = "造物";
+LEVEL_E1MS = "阴暗沼泽";
+LEVEL_E2M1 = "大型工厂";
+LEVEL_E2M2 = "无法预见";
+LEVEL_E2M3 = "战戟鲨";
+LEVEL_E2M4 = "地狱机械";
+LEVEL_E2M5 = "埃舍尔实验室";
+LEVEL_E2M6 = "幽冥反应器";
+LEVEL_E2M7 = "霓虹嘈杂";
+LEVEL_E2M8 = "血与骨";
+LEVEL_E2M9 = "挖掘";
+LEVEL_E2M10 = "严酷考验";
+LEVEL_E2MS = "铸造厂";
+LEVEL_E3M1 = "钢铁大教堂";
+LEVEL_E3M2 = "冰与火";
+LEVEL_E3M3 = "暗影都市";
+LEVEL_E3M4 = "血肉地窖";
+LEVEL_E3M5 = "傲慢亵渎";
+LEVEL_E3M6 = "硫磺隔离区";
+LEVEL_E3M7 = "回家";
+LEVEL_E3M8 = "你死我活";
+LEVEL_E3M9 = "黑暗中的居者";
+LEVEL_E3M10 = "黄昏";
+LEVEL_E3MS = "放射";
+LEVEL_END1 = "农场";
+LEVEL_END2 = "工厂";
+LEVEL_END3 = "大教堂";
+
+PROMPT_LIFT_BOX = "捡起盒子";
+PROMPT_LIFT_BOULDER = "捡起石头";
+PROMPT_LIFT_BONE = "捡起骨头";
+PROMPT_LIFT_SKULL = "捡起骷髅头";
+PROMPT_LIFT_RIBCAGE = "捡起胸腔";
+PROMPT_LIFT_GAS = "捡起气罐";
+PROMPT_LIFT_BUCKET = "捡起油桶";
+PROMPT_LIFT_SAW = "捡起锯片";
+PROMPT_LIFT_BARREL = "捡起圆桶";
+PROMPT_LIFT = "捡起";
+PROMPT_LIFT_BOOK = "捡起书";
+PROMPT_LIFT_TP = "捡起物品";
+PROMPT_LIFT_SOAP = "捡肥皂";
+PROMPT_LIFT_BEAKER = "捡起杯子";
+PROMPT_LIFT_CLEAVER = "捡起切肉斧";
+PROMPT_LIFT_VISCERA = "捡起器官";
+PROMPT_LIFT_PLATE = "捡起餐具";
+PROMPT_LIFT_FORK = "捡起叉子";
+PROMPT_LIFT_GLASS = "捡起波丽";
+PROMPT_LIFT_TIRE = "捡起轮胎";
+PROMPT_LIFT_HAY = "捡起干草";
+PROMPT_LIFT_PITCHFORK = "捡起干草叉";
+PROMPT_LIFT_PLIERS = "捡起钳子";
+PROMPT_LIFT_HAMMER = "捡起锤子";
+PROMPT_LIFT_BASKETBALL = "捡起篮球";
+PROMPT_LIFT_VASE = "捡起花瓶";
+PROMPT_LIFT_BRICK = "捡起砖头";
+PROMPT_LIFT_PIPE = "捡起水管";
+PROMPT_LIFT_BOARD = "捡起板子";
+PROMPT_LIFT_CANDLE = "捡起蜡烛";
+PROMPT_LIFT_CRYSTAL = "捡起狂乱水晶";
+PROMPT_OPEN = "打开";
+PROMPT_CLOSE = "关闭";
+PROMPT_SLEEP = "睡觉";
+PROMPT_FLICK = "按钮";
+PROMPT_PRESS = "按下";
+PROMPT_TOUCH = "触摸";
+PROMPT_LOOT = "拾取";
+PROMPT_QUAFF = "喝啤酒";
+PROMPT_EAT_HASH = "吃碎肉";
+PROMPT_FLUSH = "冲马桶";
+PROMPT_SINK = "使用水池";
+PROMPT_LIGHT_FIRE = "点火";
+PROMPT_DOOR_OPENS_ELSEWHERE = "这个门在某处打开。";
+PROMPT_DIG_GRAVE = "挖坟";
+PROMPT_DIG = "挖";
+PROMPT_END_LEVEL = "完成本关卡";
+PROMPT_SHOWER = "淋浴";
+PROMPT_COOKED_VISCERA = "吃";
+PROMPT_LOTION = "在皮肤上擦乳液";
+PROMPT_LIFT_TORCH = "升力火炬";
+PROMPT_TOUCH = "触摸";
+
+PICKUP_BULLETS_36 = "+36发手枪子弹";
+PICKUP_MORTAR = "获得了一把榴弹枪";
+PICKUP_CROSSBOW = "获得了一把十字弓";
+PICKUP_CROSSBOW_10 = "+10十字弓子弹";
+PICKUP_GRENADES_6 = "+6榴弹";
+PICKUP_ASSAULT_BULLETS_24 = "+24突击步枪子弹";
+PICKUP_ASSAULT = "获得了一把突击步枪";
+PICKUP_GRENADE_1 = "+1榴弹";
+PICKUP_BULLETS_1 = "+1发手枪子弹";
+PICKUP_BULLETS_12 = "+12发手枪子弹";
+PICKUP_PISTOL = "获得了一把手枪";
+PICKUP_RIFLE_BULLETS_5 = "+5来福枪子弹";
+PICKUP_RIFLE_BULLETS_1 = "+1来福枪子弹;
+PICKUP_RIFLE = "获得了一把来福枪";
+PICKUP_RIVET = "+1火箭弹";
+PICKUP_RIVETER = "获得了一把火箭发射器";
+PICKUP_SHOTGUN = "获得了一把霰弹枪";
+PICKUP_SHELLS_12 = "+12霰弹枪子弹";
+PICKUP_SHELLS_1 = "+1霰弹枪子弹";
+PICKUP_SUPER_SHOTGUN = "获得了一把超级霰弹枪";
+
+PICKUP_ARMOR_BONUS = "一枚金币（勇气加成）";
+PICKUP_DIAMOND = "一颗钻石(勇气+50)";
+PICKUP_HEALTH_BONUS = "一瓶魔药(生命值加成)";
+PICKUP_HEALTH_PACK = "中型医疗包. 生命值+15";
+PICKUP_HEALTH_SMALL = "小型医疗包. 生命值+7";
+PICKUP_ARMOR_10 = "一袋宝石(+10勇气)";
+
+PICKUP_BACKPACK = "装满所有弹药的背包!";
+PICKUP_FLASHLIGHT = "你找到了一个新的手电筒";
+PICKUP_CLIMBING_THING = "你发现了攀爬钩";
+PICKUP_BLISTERING_HEAT = "你发现了血清";
+PICKUP_LAVA_SUIT = "你发现了耐热服，岩浆暂时无法伤害你";
+PICKUP_FAST_FIRE = "你发现了速度图腾";
+PICKUP_RED_KEY = "你找到了红色钥匙";
+PICKUP_BLUE_KEY = "你找到了蓝色钥匙";
+PICKUP_YELLOW_KEY = "你找到了黄色钥匙";
+PICKUP_ANOTHER_PISTOL = "你现在可以双持手枪了";
+PICKUP_ANOTHER_SHOTGUN = "你现在可以双持霰弹枪了";
+PICKUP_FOUND_SWORD = "你找打了宝剑";
+PICKUP_HALLOWED_HEALTH = "你发现了神圣生命";
+
+INTERACT_COOKED_VISCERA = "生命值+25";
+INTERACT_HEALTH_2 = "生命值+2";
+INTERACT_RESTED = "你感觉很舒服(勇气+25).";
+INTERACT_MORALE_1 = "勇气+1";
+INTERACT_DRUNK = "你喝醉了";
+INTERACT_NO_HOSE = "没有软管给我！";
+INTERACT_MORE_BUTTONS = "个按钮还没有按下！";
+INTERACT_SEQUENCE_COMPLETE = "解谜完成!";
+INTERACT_TEMPLE_DOOR = "庙门打开了";
+INTERACT_MASSACRE = "杀个痛快";
+
+STORY_EP1 = "在沿着冰冷黑暗而又血腥的路上，你到达了曾经关押恶魔的地方，,你背后的伤口隐隐作痛.\n\n你身后的废墟布满了尸体.\n\n在远处出现了一座军事设施\n\n一个黑暗的声音驱使你前进.\n\n你真的希望继续下去吗？\n\n或者只是无法回头了？\n\n继续体验第二章吧！;
+STORY_EP2 = "当你走进这个传送门...\n\n你已经明白了自己的目的.\n\n有什么东西觉醒了...他超出你想像的任何恐怖怪物.\n\n你必须前进下去.\n\n没有人知道前方会是什么...\n\n继续体验第三章吧！.";
+
+//e1m1
+VO_KILL_INTRUDER = "'杀死入侵者'";
+FLAVOR_THAT_SYMBOL = "那个标记...";
+WALL_SOMETHING_BELOW = "下面有什么召唤者我们";
+FLAVOR_WHAT_THE = "如此地...";
+FLAVOR_GROOVY = "如此精妙";
+TUT_SLIDE = "跑步时按下蹲即可使出滑铲。";
+TUT_INTERACT = "按'E'进行互动";
+TUT_FLASHLIGHT = "按'f'开关手电筒";
+FLAVOR_ROTTEN_WOOD = "大门不能开启，看起来好像坏了。";
+
+//e1m2
+WALL_SINNER = "罪人";
+FLAVOR_BREAK_UP = "是时候结束派对了";
+FLAVOR_RACHAEL_SECRET = "你发现了秘密区域";
+FLAVOR_SECRET_DOOR = "秘密区域的门打开了";
+
+//e1m3
+FLAVOR_NO_TURNING_BACK = "你不能回头！";
+WALL_HANK = "这是汉克, 他适合参与生存模式";
+FLAVOR_SO_CLOSE = "如此接近...";
+WALL_TRADED_GOD = "我们选择罪恶";
+WALL_SCOURGES = "来自上古的鞭挞";
+VO_MY_PET = "'我的宠物…你死定了'";
+
+//e1m4
+WALL_PORTALS_WORK = "传送门起作用了";
+FLAVOR_DOOR_OPENS = "门开了";
+WALL_ALL_AROUND = "他在这里";
+
+//e1m5
+TUT_ZOOM = "按'鼠标右键'缩放";
+FLAVOR_NOT_HUMAN = "他们不是人类......";
+
+//e1m6
+FLAVOR_TRACK_DOOR = "大门打开了";
+VO_IMPRESSIVE = "'唔… 印象深刻…'";
+
+//e1m7
+TUT_CROSSBOW = "子弹能够传统墙壁和敌人!";
+FLAVOR_DEMONIC_CREATURE = "恶魔一样的怪物";
+FLAVOR_DISGUSTING = "令人作呕";
+FLAVOR_CULT_LEADER = "似乎是某个邪教头子";
+WALL_SANCTUM = "英勇圣殿";
+VO_WERE_UNWORTHY = "'他们不值得'";
+
+//e1m8
+FLAVOR_NO_TIME = "我可沒时间闹着玩";
+WALL_GATE_CONTROL  = "大门控制";
+WALL_RESTRICTED = "闲人免进";
+WALL_WELCOME_IN_DUSK = "欢迎来到黄昏";
+FLAVOR_DOOMED = "这里受到了诅咒";
+TUT_MORTAR = "按下鼠标右键引爆发射出去的榴弹";
+WALL_ALL_ONE = "他们都是一个人";
+
+//e1m9
+WALL_BOOKS_AND_BEER = "书与酒";
+
+//e1m10
+VO_WHATS_NEXT = "'你准备好了吗?'";
+VO_ONLY_BEGINNING = "'游戏刚刚开始…'";
+
+//e1ms
+FLAVOR_GATE_RAISES = "大门高高升起...";
+
+//e2m1
+WALL_DO_FLIP = "翻转";
+WALL_TURN_AND_LEAP = "转身按跳";
+TUT_HOLD_WALK = "按住'步行'来爬墙";
+FLAVOR_DEATH_FROM_ABOVE = "死神天降";
+
+//e2m2
+WALL_RUINS_ACCESS = "废墟入口";
+WALL_NO_RUINS = "禁止进入废墟";
+WALL_TRUST = "他们是隐形的";
+WALL_ARTIFACT = "神器存储";
+
+//e2m3
+WALL_GREAT_THRESHER = "战戟鲨万岁！";
+FLAVOR_MAINTENANCE_ACCESS = "出口开放";
+VO_ANOTHER_SACRIFICE = "'又一次献祭...'";
+
+//e2m4
+WALL_SAVE_US = "救救我們";
+WALL_SHOOT_BUTTONS = "请不要射击按钮";
+WALL_MAD_GOATS = "羊疯了";
+WALL_MAINTENANCE_ACCESS = "许可权";
+FLAVOR_HATCH_OPENED = "一个出口打开了";
+FLAVOR_GRATE_OPENED = "大门开启";
+VO_SHOW_HIM = "'给他点颜色看看'";
+VO_WHY_FOLLOW = "'为什么选择从命而不是去当领导者?'";
+FLAVOR_FALL_BROKE_FLASHLIGHT = "你的手电筒坏掉了，去找个新的";
+
+//e2m5
+WALL_WELCOME_IN_ESCHER = "欢迎来到埃舍尔实验室";
+FLAVOR_TIME_ONLY_MOVES = "时间跟随脚步而流逝";
+FLAVOR_NOT_RIGHT = "有些不对..";
+WALL_DONT = "不要";
+WALL_SAVE_YOURSELF = "救救你自己";
+VO_TAKE_IT = "'子弹时间…'";
+FLAVOR_THANKS_CONSTANTINE = "感谢康斯坦丁!";
+
+//e2m7
+WALL_BABEL_SKYLAB = "欢迎来到巴尔贝天空实验室，链接未来的建筑";
+FLAVOR_SMOKESTACK_OPENS = "一个烟囱打开了";
+FLAVOR_CAGE_LOWERS = "一个笼子降了下來";
+
+//e2m8
+WALL_DARKNESS_SPREADING = "黑暗在肆虐";
+WALL_RUINS_KNOWLEDGE = "废墟隐藏着真香";
+WALL_SOULS = "我们用灵魂来交易";
+WALL_ALTARS = "混凝土修建的祭坛";
+WALL_BLOOD_AND_BONE = "血与骨用来献祭";
+VO_DO_YOU_SEE = "'你看到了? 你明白了?'";
+VO_HIS_SPARKS = "'这火花我们从未见过!'";
+
+//e2m9
+FLAVOR_THANKS_CALEB = "多亏了卡莱布";
+WALL_TURNED_US_MAD = "他们疯了";
+FLAVOR_COME_ON = "来吧...";
+VO_DROVE_OUT = "'他们被驱散了…'";
+VO_NOT_AFRAID = "'我不害怕.'";
+
+//e2m10
+VO_MOST_IMPRESSIVE = "哈哈哈… 令人印象深刻…";
+
+//e3m1
+TUT_SILENT_TAKEDOWN = "宝剑可以有效的击杀敌人，且生命值大于100时按住'射击'可以蓄力攻击.";
+TUT_BLOCK = "当勇气大于5时，使用宝剑按住鼠标右键可以格挡敌人攻击";
+TUT_CROSSBOW_REMINDER = "十字弓的射击可以传统任何物体";
+FLAVOR_BAD_DOG = "破狗";
+VO_KNEW = "'呵呵呵… 我知道你会來…'";
+WALL_MAD_HERE = "我们都疯了";
+
+//e3m2 
+TUT_LAVA_NO_HARM = "岩浆暂时无法伤害你";
+WALL_WAVES_OF_DESTRUCTION = "毁灭波浪";
+WALL_DIMMING_SUN = "昏暗而寒冷的日光";
+
+//e3m3
+WALL_AVOID_WELL = "禁止进入水井";
+FLAVOR_WELL_OPENS = "水井打开了";
+FLAVOR_HOUSE_OPENS = "一座房子打开了";
+WALL_STRIPPED_BONES = "它的怪兽撕咬着我们的骸骨";
+WALL_SUNK_CITY = "暗影吞噬了我们的城市";
+FLAVOR_WATER_RISES = "水面升起";
+FLAVOR_DEAD_FISH = "一条鱼，两条鱼，好多鱼";
+
+//e3m4
+WALL_CHAOS_CRAWLS = "混乱来临";
+FLAVOR_BASEMENT_OPENS = "地下室门打开了";
+FLAVOR_ALCOVE_OPENS = "墙壁笼打开了";
+FLAVOR_OLD_FRIEND = "你好啊老朋友";
+FLAVOR_EXIT_OPENS = "出口打开了";
+WALL_FLUSH_SINS = "洗刷你的罪恶";
+VO_EMBRACE_DARKNESS = "'拥抱黑暗…'";
+VO_CLOSER = "'他们越靠近，承受的就越多…'";
+
+//e3m5
+FLAVOR_UNHOLY_ALTAR = "一座邪恶祭坛，摧毁他!";
+FLAVOR_RISING_WIND = "龙卷风来了";
+
+//e3m6
+WALL_WELCOME_IN_HELL = "地狱欢迎您";
+WALL_WELCOME_IN_BACK = "欢迎回来";
+FLAVOR_FAST_FIRE_STACKS = "速度图腾效果可以叠加";
+WALL_PLACE_CONDEMNED = "这里充满罪恶";
+
+//e3m7
+FLAVOR_SON_OF_A = "该死...";
+FLAVOR_THAT_HOUSE = "那房子...";
+FLAVOR_GARAGE_OPENS = "旁边的仓库打开了";
+FLAVOR_CARCASS = "好像是尸体";
+FLAVOR_HOW = "我怎么在这里?";
+FLAVOR_HURTS = "我忘了";
+VO_WELCOME_HOME = "'欢迎回家…'";
+VO_DONE_TOGETHER = "'快看…'";
+
+//e3m8
+FLAVOR_CUTE = "真可爱";
+FLAVOR_LAVENDER_SECRET = "你发现了秘密";
+WALL_MEMORIES_DRY = "记忆支离破碎";
+WALL_SECRETS_LAID_BARE = "他们没有秘密";
+WALL_COMPLETE_CIRCLE = "完成圆圈";
+VO_WELCOME_BACK = "'欢迎回来…'";
+VO_SMALL = "'如此渺小… 如此孱弱…'";
+WALL_TRUST_EYES = "相信你的眼睛";
+
+//e3m9
+WALL_COWARD = "懦夫的出口";
+VO_SHOW_US = "'给我们看看你的力量…'";
+VO_EXCELLENT = "'真棒… 到这里来…'";
+
+//e3m10
+FLAVOR_END_THIS = "是时候结束这一切了...";
+FLAVOR_UNWORTHY_INDEED = "毫无价值...";
+VO_WAITING = "'我们在等待…'";
+WALL_QUARANTINE = "检疫释放";
+WALL_CREATE = "我们创造了什么?";
+FLAVOR_END_THIS = "是时候结束了";
+
+VO_JAKOB_1 = "'终于，你来了，让我看看你的能耐.'";
+VO_JAKOB_2 = "'不! 你们不能背叛我! 我的信徒们!'";
+VO_NARGLE_1 = "'他曾经是最强的… 但你来了…'";
+VO_NARGLE_2 = "'你更加強大. 更加迅猛.我更喜欢你…'";
+VO_NARGLE_3 = "'你猜谁是幕后主使者? 神还是恶魔?'";
+VO_NARGLE_4 = "'不…就是我而已…'";
+VO_NARGLE_6 = "'够了，你的确很强，但是现在我附身你了!'";
+VO_NARGLE_7 = "'感觉如何? 是不是很可怕… 但很奇妙, 对吧?'";
+VO_NARGLE_8 = "'之前的你不值一提. 现在你是无敌的.'";
+VO_NARGLE_9 = "'你将会留在这里，等待我的拆迁，来吧，感受黄昏吧(DUSK).'";
+
+//e3ms
+FLAVOR_HATE_RATS = "我讨厌老鼠";
